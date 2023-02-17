@@ -1,5 +1,5 @@
-# INFINITY VPN Landing page
-- https://cyclopTech.github.io/cyclopvpn-web
-- https://cyclopTech.github.io/cyclopvpn-web/setup
-- https://cyclopTech.github.io/cyclopvpn-web/tips
-- https://cyclopTech.github.io/cyclopvpn-web/policy
+# CYCLOPS VPN Landing page
+- https://cyclopstech.github.io/cyclops-vpn-web
+- https://cyclopstech.github.io/cyclops-vpn-web/setup
+- https://cyclopstech.github.io/cyclops-vpn-web/tips
+- https://cyclopstech.github.io/cyclops-vpn-web/policy
